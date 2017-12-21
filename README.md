@@ -1,0 +1,2 @@
+# Point-Based-Virtual-Visual-Servoing-using-VISP
+We have done dot detection, tracking, computing pose and virtual visual servoing using VISP library. We had seen great advantages of this library as we can track and detect using a single line of code and the data structures defined for holding data are well defined and the class and methods used in the library are well documented with many examples. We found it's easy to use this library for visual servoing in the context of our tasks
